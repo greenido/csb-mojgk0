@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://greenido.github.io/csb-mojgk0/static/css/main.231c0c79.chunk.css",
+    "main.js": "https://greenido.github.io/csb-mojgk0/static/js/main.12aa850d.chunk.js",
+    "main.js.map": "https://greenido.github.io/csb-mojgk0/static/js/main.12aa850d.chunk.js.map",
+    "runtime-main.js": "https://greenido.github.io/csb-mojgk0/static/js/runtime-main.ba887f9a.js",
+    "runtime-main.js.map": "https://greenido.github.io/csb-mojgk0/static/js/runtime-main.ba887f9a.js.map",
+    "static/js/2.fc33d9a9.chunk.js": "https://greenido.github.io/csb-mojgk0/static/js/2.fc33d9a9.chunk.js",
+    "static/js/2.fc33d9a9.chunk.js.map": "https://greenido.github.io/csb-mojgk0/static/js/2.fc33d9a9.chunk.js.map",
+    "index.html": "https://greenido.github.io/csb-mojgk0/index.html",
+    "static/css/main.231c0c79.chunk.css.map": "https://greenido.github.io/csb-mojgk0/static/css/main.231c0c79.chunk.css.map",
+    "static/js/2.fc33d9a9.chunk.js.LICENSE.txt": "https://greenido.github.io/csb-mojgk0/static/js/2.fc33d9a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba887f9a.js",
+    "static/js/2.fc33d9a9.chunk.js",
+    "static/css/main.231c0c79.chunk.css",
+    "static/js/main.12aa850d.chunk.js"
+  ]
+}
