@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://greenido.github.io/csb-mojgk0/static/css/main.231c0c79.chunk.css",
-    "main.js": "https://greenido.github.io/csb-mojgk0/static/js/main.12aa850d.chunk.js",
-    "main.js.map": "https://greenido.github.io/csb-mojgk0/static/js/main.12aa850d.chunk.js.map",
+    "main.js": "https://greenido.github.io/csb-mojgk0/static/js/main.fbad8e2c.chunk.js",
+    "main.js.map": "https://greenido.github.io/csb-mojgk0/static/js/main.fbad8e2c.chunk.js.map",
     "runtime-main.js": "https://greenido.github.io/csb-mojgk0/static/js/runtime-main.ba887f9a.js",
     "runtime-main.js.map": "https://greenido.github.io/csb-mojgk0/static/js/runtime-main.ba887f9a.js.map",
     "static/js/2.fc33d9a9.chunk.js": "https://greenido.github.io/csb-mojgk0/static/js/2.fc33d9a9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ba887f9a.js",
     "static/js/2.fc33d9a9.chunk.js",
     "static/css/main.231c0c79.chunk.css",
-    "static/js/main.12aa850d.chunk.js"
+    "static/js/main.fbad8e2c.chunk.js"
   ]
 }
